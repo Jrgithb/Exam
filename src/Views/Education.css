@@ -1,0 +1,102 @@
+.education-container img{
+    position: relative;
+    height: 900px;
+
+}
+
+.education-text{
+    position: absolute;
+    top: 500px; 
+    left: 90px; 
+    color: rgb(1, 78, 1);  
+    font-size: 26px;
+    font-weight: bolder;
+    padding: 10px;
+
+}
+
+.education-visit{
+    border: none;
+    background: none;
+    position: absolute;
+    top: 580px; 
+    left: 150px; 
+    background-color:  rgb(111, 255, 67);
+    border: 1px solid  rgb(111, 255, 67);
+    color: black;  
+    font-size: 16px;
+    font-weight: bolder;
+    padding: 5px;
+
+
+}
+
+.education-visit:hover{
+    cursor: pointer;
+}
+
+.ed-help{
+    width: 70%;
+    margin-left: 10%;
+    
+}
+
+.ed-help img{
+    width: 50%;
+    margin-left: 5%;
+}
+
+.ed-text{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.zoo-text{
+    width: 40%;
+    margin-left: 10%;
+}
+
+.ed-help .btn-text{
+    margin-left: 2%;
+    
+}
+
+.educational-visit{
+    border: none;
+    background: none;
+    margin-right: 45%;
+    margin-top: 2%;
+    font-size: 26px;
+    font-style: italic;
+    font-weight: bold;
+    background-color:  rgb(111, 255, 67);
+    border: 4px solid  rgb(111, 255, 67);
+    cursor: pointer;
+}
+
+.btn-text{
+    margin-left: 10%;
+    font-size: 16px;
+    width: 700px;
+    font-style: italic;
+}
+
+.education-visit:hover{
+    background-color: white;
+}
+
+.educational-visit:hover{
+    background-color: white;
+}
+
+.ed-event{
+    width: 40%;
+    margin-left: 50%;
+    margin-top: -29.5%;
+
+}
+
+.ed-event .educational-visit{
+   margin-left: 30%;
+   width: 40%;
+}

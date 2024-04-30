@@ -1,0 +1,37 @@
+.visit-container{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+}
+
+.booking-contain-date{
+    position: relative;
+    font-size: 22px;
+}
+
+.calendar{
+    position: absolute;
+    top: 100%; 
+    left: 40%;
+    z-index: 1;
+    color: black;
+}
+
+.time-contain {
+    font-size: 16px;
+    margin-left: 40%;
+    margin-top: -4%;
+}
+
+.time-contain h2{
+    font-size: 22px;
+    font-style: italic;
+}
+
+.ticket-payment{
+    margin-top: 15%;
+}
+
+.ticket-payment p{
+    margin-right: 20%;
+}

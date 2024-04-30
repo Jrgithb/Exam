@@ -1,0 +1,79 @@
+.hotel-sec img{
+    width: 40%;
+    margin-left: 10%;
+}
+
+.hotel-sec p{
+   margin-left: 50%;
+   margin-top: -10%;
+}
+
+.hotel-content img{
+    width: 40%;
+    margin-top: 15%;
+    margin-left: 55%;
+}
+
+.hotel-content p{
+    margin-left: -45%;
+    margin-top: -10%;
+   
+ }
+
+ .content-hotel img{
+    width: 40%;
+    margin-left: 7%;
+    margin-top: 15%;
+ }
+
+ .content-hotel p{
+    margin-left: 50%;
+    margin-top: -7%;
+ }
+
+ .hotel-book-btn{
+    border: none;
+    background: none;
+    margin-right: 45%;
+    margin-top: 2%;
+    font-size: 26px;
+    font-style: italic;
+    font-weight: bold;
+    background-color:  rgb(111, 255, 67);
+    border: 4px solid  rgb(111, 255, 67);
+    cursor: pointer;
+ }
+
+ .hotel-booking{
+   border: none;
+    background: none;
+    margin-right: -45%;
+    margin-top: 2%;
+    font-size: 26px;
+    font-style: italic;
+    font-weight: bold;
+    background-color:  rgb(111, 255, 67);
+    border: 4px solid  rgb(111, 255, 67);
+    cursor: pointer;
+ }
+
+ .hotel-book{
+    border: none;
+    background: none;
+    margin-right: -40%;
+    margin-top: 2%;
+    font-size: 26px;
+    font-style: italic;
+    font-weight: bold;
+    background-color:  rgb(111, 255, 67);
+    border: 4px solid  rgb(111, 255, 67);
+    cursor: pointer;
+ }
+
+ .hotel-book:hover{
+   background-color: white;
+ }
+
+ .hotel-booking:hover{
+   background-color: white;
+ }

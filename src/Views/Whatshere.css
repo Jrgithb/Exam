@@ -1,0 +1,42 @@
+.whats-here-container{
+    position: relative;
+}
+
+.intro-contain{
+    position: relative;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 500px; 
+    left: 50px; 
+    color: rgb(1, 78, 1);  
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    
+}
+
+.map-area{
+    position: absolute;
+    top: 580px; 
+    left: 50px; 
+    color: black; 
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    
+
+}
+
+img {
+    width: 100%;
+}
+
+.map-sec{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+   

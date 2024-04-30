@@ -1,0 +1,47 @@
+.educacional-help-container{
+
+}
+
+.card-container{
+
+}
+
+/* .card-list{
+
+}
+
+.card-function{
+
+} */
+
+
+.card-wrap{
+    display: flex;
+    width: 30%;
+    height: 200px;
+    margin-left: 25%;
+    margin-top: 5%;
+    gap: 26px;
+}
+
+.educacional-help-container .input-type {
+    position: relative;
+    width: 95%;
+    height: 50px;
+    margin: 20px 0;
+}
+
+.input-type input{
+
+       
+        height: 40px;
+        padding: 5px;
+        background:  rgb(111, 255, 67);
+        
+        border: 2px solid rgb(111, 255, 67);
+        font-size: 16px;
+        
+}
+
+
+
